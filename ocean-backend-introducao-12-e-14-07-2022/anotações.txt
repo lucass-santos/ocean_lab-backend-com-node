@@ -1,0 +1,24 @@
+Vamos usar NPM - gerenciador de pacotes do node.js (gerenciador de projetos)
+
+Comandos:
+
+npm init -y - para criar um novo projetos
+
+ctrl + d  - mata o projetos
+
+cls - limpa o terminal no windows
+
+npm install - comando para instalar tudo do node_modules
+
+teste e2e para aplicação  - (pactum)
+
+atalhos - -i intalar / -D salvar em devDependencie
+
+posso apagar uma dependencia direto no package.json e rodar npm i que ele apagar o que for retirado.
+
+depois é colocar novamente no lugar correto com a instalação.
+
+
+opção de url para acessar o servidor:  mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net
+
+{nome: {$exists: true}} - busca todos os documentos com chave nome
