@@ -22,3 +22,13 @@ depois é colocar novamente no lugar correto com a instalação.
 opção de url para acessar o servidor:  mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net
 
 {nome: {$exists: true}} - busca todos os documentos com chave nome
+
+textto teste.
+
+railway - opção de servidor para backend e banco de dados.
+
+provedores de cloud: AWS / GCP (Google) / Azure
+
+facilitadores de cloud: heroku / Vercel / Netlify / Railway / Render
+
+nome:  ocean-lab-21-07-lucas-santos
